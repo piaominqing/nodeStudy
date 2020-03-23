@@ -1,5 +1,5 @@
 const net = require('net')
-
+// tcp协议
 const chatServer = net.createServer()
 const clientList = []
 
