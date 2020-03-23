@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/piaominqing/nodeStudy/issues"
   },
-  "homepage": "https://github.com/piaominqing/nodeStudy#readme"
+  "homepage": "https://github.com/piaominqing/nodeStudy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.3"
+  }
 }
