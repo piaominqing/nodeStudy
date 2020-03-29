@@ -19,6 +19,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.3",
+    "mogoose": "0.0.1-security",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.6",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.5"
